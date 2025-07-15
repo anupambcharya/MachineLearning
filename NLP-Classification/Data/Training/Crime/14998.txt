@@ -1,0 +1,21 @@
+
+Hello all,
+
+Below is the number of Crime against each head in out city:
+
+	For Gain	8172
+	Rowdy Murders	1247
+	Illicit Relationship 222532
+	Dowry Related	522
+	Grave Provocation 244049
+	Domestic Problems 183031
+	Previous Enemity 342831
+	Dispute Over Loans 91117
+	Property Dispute 674
+	Live in Relationship 54
+	Love Intrigue 	414
+	Other reasons 	14
+
+Thank you,
+Police
+
