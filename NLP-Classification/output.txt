@@ -1,0 +1,3 @@
+
+Prediction for Email with content : 'Hi! Saw Panchayat last night. The character of Vinod was outstanding. This web-series was truly amazing! You must watch it':
+ The e-mail goes to folder: Entertainment
